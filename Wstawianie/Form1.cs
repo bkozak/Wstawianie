@@ -53,8 +53,5 @@ namespace Wstawianie
         {
 
         }
-
-\\test
-test2
     }
 }
